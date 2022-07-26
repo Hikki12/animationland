@@ -1,2 +1,2 @@
-## AnimationLand
-An HTML CSS Game, with some animations.
+## Animationland
+A HTML/CSS Game, with some animations.
